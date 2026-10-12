@@ -5,5 +5,4 @@
 .badge-two{bottom:8px;left:-60px}.focus-strip{align-items:flex-start;flex-direction:column;gap:7px;margin-top:23px}.focus-strip p{font-size:.79rem;line-height:1.9}.section{padding:64px 0}.about-layout,.experience-layout{grid-template-columns:1fr;gap:20px}.section-heading{display:block}.section-heading>p{margin-top:12px}.project-list{grid-template-columns:1fr}.project-wide{grid-column:auto;display:flex;flex-direction:column}.project-wide .project-index{margin-bottom:0}.project-wide .project-art{margin:18px 22px 0;min-height:225px}.project-wide .project-body{padding:22px 24px 25px}.project-art{min-height:190px}.project-title-row{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}.kind-mobile{display:none}.skills-grid{grid-template-columns:1fr 1fr;gap:11px}.skill-card{padding:18px 14px}.skill-card p{font-size:.76rem}.contact-panel{grid-template-columns:1fr;padding:30px 24px;gap:18px}.contact-panel h2{font-size:2.15rem}.footer-row{flex-wrap:wrap}.footer-row>span{order:3;width:100%}}
 @media(max-width:390px){.quick-facts{gap:14px}.quick-facts strong{font-size:1.02rem}.skills-grid{grid-template-columns:1fr}.stats b{font-size:.9rem}.stats small{font-size:.61rem}.chain-flow span{font-size:.54rem;padding:7px 5px}}
 .badge-one {
-  display: none !important;
-}
+  display: none !important;}
